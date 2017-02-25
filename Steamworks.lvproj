@@ -124,7 +124,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
-		<Item Name="Button motor control.vi" Type="VI" URL="../../Robotics/Sabin Custom VI&apos;s/Button motor control.vi"/>
+		<Item Name="Button motor control.vi" Type="VI" URL="../Button motor control.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
